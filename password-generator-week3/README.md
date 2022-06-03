@@ -1,0 +1,1 @@
+This week's task was to create a password generator using javascript. This was done by allowing the user to input how they would like their password by alowwing them to select how long the password is and if they want lowercase, uppercase, special characters, or numbers.
